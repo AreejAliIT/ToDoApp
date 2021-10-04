@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="todo">TODO</string>
+
+    // for shared preference
+    <string name="preference_file_key">com.example.ToDo.PREFERENCE_FILE_KEY</string>
+
+</resources>
